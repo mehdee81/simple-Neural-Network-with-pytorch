@@ -6,7 +6,7 @@ Hey there , for use this code you just have to install pytorch with following co
 
 
 
-simple neural network with pytorch and Required Description in comments
+simple neural network with pytorch and Required Description in comments . its in a jupyter notebook file .
 
 simple Linear Neural Network with pytorch
 
